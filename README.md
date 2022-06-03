@@ -1,1 +1,1 @@
-# Programming from the Ground Up (x86-64)
+# Programming from the Ground Up (x86_64)
