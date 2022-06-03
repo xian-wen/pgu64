@@ -2,7 +2,7 @@
 #
 # VARIABLES:
 #   %rax - holds the system call number
-#   %rbx - holds the return value
+#   %rdi - holds the return value
 
 .section .data
 
