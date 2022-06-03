@@ -7,11 +7,10 @@
 .section .data
 
 .section .text
+
 .globl _start
 
 _start:
-    movq $60, %rax  # exit
-
-    movq $0, %rdi
-
+    mov $60, %rax  # exit
+    mov $0, %rdi
     syscall
