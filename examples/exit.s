@@ -12,6 +12,6 @@
 _start:
     movq $60, %rax  # exit
 
-    movq $0, %rbx
+    movq $0, %rdi
 
     syscall
