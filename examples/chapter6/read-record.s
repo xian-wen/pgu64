@@ -1,5 +1,5 @@
 .include "linux.s"
-.include "record_def.s"
+.include "record-def.s"
 
 # PURPOSE:
 #   reads a record from the file descriptor.

@@ -1,5 +1,5 @@
 .include "linux.s"
-.include "record_def.s"
+.include "record-def.s"
 
 # PURPOSE:
 #   print on the terminal the names of the records in a file.
