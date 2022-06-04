@@ -1,5 +1,5 @@
 # PURPOSE:
-#   count the length of the null terminated character string.
+#   count the length of the null-terminated character string.
 #
 # INPUT:
 #   the address of the charater string.
