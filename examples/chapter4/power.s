@@ -1,4 +1,5 @@
 # Computer 2^3 + 5^2 + 100^0.
+#
 # The return value of power stored in %rax.
 
 .section .data
