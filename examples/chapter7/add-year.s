@@ -1,6 +1,5 @@
 .include "linux.s"
-.include "record_def.s"
-.include "error_exit.s"
+.include "record-def.s"
 
 .equ ST_SIZE_RESERVE, 16
 .equ ST_INPUT_DESCRIPTOR, -8
